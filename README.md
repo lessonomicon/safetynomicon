@@ -8,7 +8,8 @@
   </div>
   <div class="col-8" markdown="1">
 
-This tutorial is a short introduction to digital safety for researchers.
+This tutorial is a short introduction to digital safety for researchers
+based in part on [[Smalls2021](b:Smalls2021)].
 All of the material is available under [open licenses](./LICENSE.md),
 and contributions through our [GitHub repository][repo] are welcome.
 All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT.md).
@@ -31,6 +32,10 @@ FIXME
 <div class="chapters" markdown="1">
 
 1.  [Introduction](./01_intro/index.md): what we will learn, how to set up, and the data we will use
+2.  [Threat Models](./02_threats/index.md)
+3.  [Authentication](./03_auth/index.md)
+4.  [Hygiene](./04_hygiene/index.md)
+5.  [Community](./05_community/index.md)
 
 </div>
 
