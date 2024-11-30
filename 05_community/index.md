@@ -13,10 +13,10 @@ don't, they are likely to pick new ones. If you have been attacked:
     may also be able to offer advice if they have been in similar
     situations.
 
-2.  **Use anti-harassment apps** like [Block
-    Party](https://www.blockpartyapp.com/) and document everything. Save
-    emails and take screenshots of sites like Facebook and Twitter (in
-    case attackers delete or alter material).
+2.  **Use anti-harassment apps** like [Block Party][block-party] and
+    document everything. Save emails and take screenshots of sites
+    like Facebook and Twitter (in case attackers delete or alter
+    material).
 
 3.  **Do not engage directly.** Casual attackers are often seeking
     attention, so a direct response often encourages further attacks
@@ -50,3 +50,5 @@ take meaningful action. Cars and drugs are as safe as they are because
 their manufacturers are liable for negligence and harm. The sooner
 software companies and social media sites are liable as well, the safer
 all of us will be.
+
+[block-party]: https://www.blockpartyapp.com/

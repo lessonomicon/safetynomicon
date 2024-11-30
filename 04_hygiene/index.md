@@ -14,14 +14,14 @@ Microsoft Word and Excel are particularly notorious for this
 vulnerability, but many other kinds of documents have the same flaw.
 
 Attempts to get you to open an email attachment, click on a link,
-install software, or log into a website are called **phishing**
-attacks.  The strongest defense is to never do these things, but in
-the modern world that would make most work impossible. The second-best
-defense is to take sensible precautions. If you are able, invest in
-virus scanning software such as [Proofpoint][proofpoint] to scan email
-attachments before you download them. While many email clients have
-virus scanning technology built-in, this will offer an extra layer of
-protection.
+install software, or log into a website are called
+[phishing](g:phishing) attacks.  The strongest defense is to never do
+these things, but in the modern world that would make most work
+impossible. The second-best defense is to take sensible
+precautions. If you are able, invest in virus scanning software such
+as [Proofpoint][proofpoint] to scan email attachments before you
+download them. While many email clients have virus scanning technology
+built-in, this will offer an extra layer of protection.
 
 Similarly, don't click links in emails without checking them first:
 instead, hover over the link and see if it matches the site it claims to
@@ -39,11 +39,12 @@ different domain than `www.paypal.com`.
 > these emails encourage us to click on links in emails. If you are not
 > expecting a password reset email, *don't click on the link*.
 
-While phishing attacks are wide-ranging, **spearphishing** describes the
-use of data harvested from previous victims to attack specific targets.
-Here, the best defense is to very suspicious emails, e.g., by phoning
-people to confirm their identity. It's particularly important to do this
-when you are sent things like password reset instructions. Many IT
+While phishing attacks are wide-ranging,
+[spearphishing](g:spearphishing) describes the use of data harvested
+from previous victims to attack specific targets.  Here, the best
+defense is to very suspicious emails, e.g., by phoning people to
+confirm their identity. It's particularly important to do this when
+you are sent things like password reset instructions. Many IT
 departments send out messages that are indistinguishable from
 spearphishing attacks, which just trains people to be victims.
 
@@ -79,12 +80,12 @@ settings every time you do some other regular task.
 
 Unfortunately, even if you do this, information may leak through other
 means. For example, attackers can friend your friends in an attempt to
-get information about you, such as the name of your first school. And as
-bad as social media sites are for social engineering in this way, cell
-phone applications are often worse (not even counting the ones that turn
-out to be government-sponsored spyware [@Schn2019]). In general, if a
-game wants access to your camera and address book, you should probably
-find a different game to play.
+get information about you, such as the name of your first school. And
+as bad as social media sites are for social engineering in this way,
+cell phone applications are often worse (not even counting the ones
+that turn out to be government-sponsored spyware [[Schneier2019](b:Schneier2019)].
+In general, if a game wants access to your camera and address book,
+you should probably find a different game to play.
 
 Since social media is a fact of life for most of us, you should check
 your settings periodically, just as you would take your car in for an

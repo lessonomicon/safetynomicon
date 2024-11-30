@@ -31,14 +31,15 @@ practically non-existent: data breaches have minimal impact on
 companies' profitability and individuals are almost never fined, much
 less jailed.
 
-Much of what institutions force us to go through is **security theater**
-intended to make us believe something is being done rather than to
-actually make us safer. Requiring people to take off their shoes at
-airports is one example; random searches of backpacks and bags at the
-entrance to the subway is another, since it's hard to imagine that a
-would-be attacker *wouldn't* just go to another entrance. (Bruce
-Schneier's blog [@SchnBlog] has many examples of security theater and
-the harm it does.)
+Much of what institutions force us to go through is
+[security theater](g:security-theater) intended to make us believe
+something is being done rather than to actually make us
+safer. Requiring people to take off their shoes at airports is one
+example; random searches of backpacks and bags at the entrance to the
+subway is another, since it's hard to imagine that a would-be attacker
+*wouldn't* just go to another entrance. (Bruce Schneier's blog
+[@SchnBlog] has many examples of security theater and the harm it
+does.)
 
 Security theater is counter-productive because it encourages us to cut
 corners in ways that actually make us *less* safe. For example, forcing
@@ -57,22 +58,24 @@ their credit card, and what was almost certainly their mother's maiden
 name.
 
 The moral of this story is that safety comes from good habits, not
-technology. **Social engineering** is far more common than hacking: in
-practice it is far easier to trick someone into giving you their
-password than to break into their devices digitally.
+technology. [Social engineering](g:social-engineering) is far more
+common than hacking: in practice it is far easier to trick someone
+into giving you their password than to break into their devices
+digitally.
 
-The key practice is **situational awareness**, which is a fancy way of
-saying, "Pay attention to what's happening and respond accordingly." If
-you start working on a high-profile subject that will likely attract
-controversy you should take more precautions than usual. For example,
-someone should recognize that agreeing to be an expert witness increases
-the odds that they will be targeted, and should be more careful about
-what he puts into email while preparing and delivering his testimony.
+The key practice is [situational awareness](g:situational-awareness),
+which is a fancy way of saying, "Pay attention to what's happening and
+respond accordingly." If you start working on a high-profile subject
+that will likely attract controversy you should take more precautions
+than usual. For example, someone should recognize that agreeing to be
+an expert witness increases the odds that they will be targeted, and
+should be more careful about what he puts into email while preparing
+and delivering his testimony.
 
 The corollary to situational awareness is to de-escalate when you can.
 Being on guard all the time is exhausting and quickly leads to
-**security fatigue** [@Stan2016]. If you are too tired to follow good
-practices, knowing them does you no good.
+[security fatigue](g:security-fatigue) [@Stan2016]. If you are too
+tired to follow good practices, knowing them does you no good.
 
 Two technologies that are useful, but only to a certain extent, are
 Virtual Private Networks and a specialized web browser called Tor. A
